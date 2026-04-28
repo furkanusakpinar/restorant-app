@@ -1,11 +1,14 @@
+<div align="center">
+
 # 🍽️ Premium Restaurant Platform
 
 A high-end, modern restaurant web application featuring a sleek Noir & Silver aesthetic, dynamic content management, and a seamless user experience.
 
-![License](https://img.shields.io/github/license/furkanusakpinar/restorant-app)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
 
 ## ✨ Key Features
 
@@ -57,10 +60,8 @@ A high-end, modern restaurant web application featuring a sleek Noir & Silver ae
 
 *(Add your screenshots here after deployment)*
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
 
+<div align="center">
 Developed with ❤️ by [Furkan Uşakpınar](https://github.com/furkanusakpinar)
+</div>
